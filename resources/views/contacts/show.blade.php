@@ -2,7 +2,10 @@
 
 @section('content')
 <div class="max-w-3xl mx-auto px-4 py-8">
-    <h1 class="text-3xl font-bold text-gray-800 mb-6 text-center">Detalhes do Contato</h1>
+    <h1 class="text-3xl font-bold flex items-center gap-2 text-gray-800">
+        <i data-lucide="eye" class="w-6 h-6 text-indigo-600"></i> Detalhes do Contato
+        Detalhes do Contato
+    </h1>
 
     <div class="bg-white shadow-md rounded-lg p-6">
         <ul class="space-y-4">

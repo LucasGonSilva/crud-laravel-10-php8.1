@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="max-w-2xl mx-auto px-4 py-8">
-    <h1 class="text-3xl font-bold text-gray-800 mb-6 text-center flex items-center justify-center gap-2">
+    <h1 class="text-3xl font-bold flex items-center gap-2 text-gray-800">
         <i data-lucide="pencil-line" class="w-6 h-6 text-indigo-600"></i> Editar Contato
     </h1>
 
